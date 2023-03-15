@@ -1,0 +1,18 @@
+current directory: /home/susan/Development/code/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/susan/Development/code/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-72561-8lgskk sitelibdir\=./.gem.20230315-72561-8lgskk clean
+
+current directory: /home/susan/Development/code/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-72561-8lgskk sitelibdir\=./.gem.20230315-72561-8lgskk
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/susan/Development/code/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-72561-8lgskk sitelibdir\=./.gem.20230315-72561-8lgskk install
+/bin/install -m 0755 websocket_mask.so ./.gem.20230315-72561-8lgskk
+
+current directory: /home/susan/Development/code/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-72561-8lgskk sitelibdir\=./.gem.20230315-72561-8lgskk clean
